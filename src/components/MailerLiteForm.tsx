@@ -44,7 +44,7 @@ const MailerLiteForm = () => {
                     </div>
                   </div>
                   <div className="ml-button-horizontal primary">
-                    <button type="submit" className="primary">Subscribe</button>
+                    <button type="submit" className="primary">Sign Up</button>
                     <button disabled style={{ display: 'none' }} type="button" className="loading">
                       <div className="ml-form-embedSubmitLoad"></div>
                       <span className="sr-only">Loading...</span>
